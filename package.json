@@ -1,0 +1,20 @@
+{
+  "name": "signup-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bill-weiler/Signup_Form.git"
+  },
+  "author": "bill-weiler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bill-weiler/Signup_Form/issues"
+  },
+  "homepage": "https://github.com/bill-weiler/Signup_Form#readme"
+}
